@@ -1,4 +1,4 @@
-# simpleComp
+# simpleComp pre alpha stage
 
 A collection of simple and reusable React Native components.
 
